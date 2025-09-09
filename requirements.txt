@@ -1,0 +1,12 @@
+SpeechRecognition==3.10.0
+pyttsx3==2.99
+pyaudio==0.2.11
+pygame==2.5.2
+ollama==0.1.7
+pyautogui==0.9.54
+psutil==5.9.6
+requests==2.31.0
+TTS==0.22.0
+elevenlabs==0.2.26
+gTTS==2.4.0
+pathlib
