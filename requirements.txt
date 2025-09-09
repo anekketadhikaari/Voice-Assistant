@@ -10,3 +10,8 @@ TTS==0.22.0
 elevenlabs==0.2.26
 gTTS==2.4.0
 pathlib
+
+# Optional TTS engines 
+TTS>=0.22.0              # Coqui TTS (high quality, local)
+elevenlabs>=0.2.26       # ElevenLabs API (requires API key)
+gTTS>=2.4.0              # Google TTS (requires internet)
